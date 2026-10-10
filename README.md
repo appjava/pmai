@@ -20,6 +20,16 @@ PMAI es una solución SaaS diseñada para pequeños productores agroecológicos 
 - **Base de Datos:** SQLite (Desarrollo) / PostgreSQL + Supabase (Producción)
 - **Infraestructura:** Firebase Hosting, GitHub Actions (CI/CD)
 
+## 🤖 Integración con Qwen (Roadmap)
+
+PMAI integrará el modelo Qwen de Alibaba Cloud para:
+- **Análisis predictivo de cultivos**: Predicción de necesidades de riego basada en patrones históricos
+- **Asistente virtual agroecológico**: Chatbot en español que responde preguntas técnicas a productores
+- **Generación automática de reportes**: Resúmenes ejecutivos en lenguaje natural a partir de datos de sensores
+- **Detección de anomalías**: Identificación temprana de plagas o enfermedades mediante análisis de patrones
+
+*Tecnología: Qwen-7B-Chat fine-tuned con datos agroecológicos colombianos*
+
 ## 👨‍💻 Autor
 **Jaime Alberto Valencia Abadía**  
 Tecnólogo en Análisis y Desarrollo de Software (SENA) | Ingeniero Mecánico  
