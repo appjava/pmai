@@ -8,7 +8,6 @@
 
 🔗 **Live Demo:** [https://pmai-saas.web.app](https://pmai-saas.web.app)
 
----
 
 ## 🚀 Key Features (MVP)
 - ✅ **Mobile-First Interactive Dashboard:** Real-time visualization of sensor data.
@@ -17,7 +16,6 @@
 - ✅ **Offline-First Architecture:** Local data caching with background sync when connectivity is restored.
 - ✅ **Sustainability Reports:** Exportable CSV/PDF reports for organic certification tracking.
 
----
 
 ## 🤖 Qwen AI Integration (Roadmap)
 PMAI is actively evolving to integrate **Qwen's open-source LLM capabilities** to democratize precision agriculture:
@@ -28,7 +26,6 @@ PMAI is actively evolving to integrate **Qwen's open-source LLM capabilities** t
 
 *We plan to contribute our agricultural prompt engineering datasets and fine-tuning scripts back to the Qwen community.*
 
----
 
 ## 🛠️ Tech Stack
 | Layer | Technology | Justification |
@@ -39,7 +36,6 @@ PMAI is actively evolving to integrate **Qwen's open-source LLM capabilities** t
 | **Infrastructure** | Cloudflare Pages, GitHub Actions | Zero-cost, global CDN, automated CI/CD. |
 | **Hardware** | ESP32, DHT11, Soil Moisture Sensors | Low-cost, solar-compatible, Wi-Fi/Bluetooth enabled. |
 
----
 
 ## 🏗️ Architecture
 
@@ -116,7 +112,7 @@ cd ../frontend
 npm install
 npm run dev
 ```
----
+
 ## 👨‍💻 Author & Community
 **Jaime Alberto Valencia Abadía**
 Mechanical Engineer (10+ years) & Software Development Technologist (SENA).
@@ -126,9 +122,5 @@ Building sustainable tech solutions, one sensor, script, and circuit at a time.
 
 📧 Contact: java8934692@soy.sena.edu.co
 
----
-
 ## 🤝 Contributing
 We welcome contributions from the open-source community! Whether you want to fix a bug, improve the UI, or help integrate Qwen AI, please read our Contributing Guidelines before submitting a Pull Request.
-
----
