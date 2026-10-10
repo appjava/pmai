@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "pmai-saas",
     "public": "dist",
     "ignore": [
       "firebase.json",
